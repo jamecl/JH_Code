@@ -12,7 +12,8 @@
 	
 	
 	var helloSpeaker = {};
-	 var speakWord = "Hello";
+	helloSpeaker.name = "Jim"
+	var speakWord = "Hello";
 
 
 	// STEP 4: Rewrite the 'speak' function such that it is attached to the
